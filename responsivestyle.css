@@ -80,7 +80,7 @@ footer .policy{
   display: table;
   height: inherit;
   font-size: 12px;
-  background-color: #272343;
+  background-color: #000000;
   text-align: left;
   margin: 2px;
 }
@@ -121,7 +121,7 @@ footer .policy{
   display: table;
   height: inherit;
   
-  background-color: #272343;
+  background-color: #000000;
   text-align: left;
   margin: 2px;
 }
